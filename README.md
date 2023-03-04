@@ -1,5 +1,3 @@
-## 天才在左 疯子在右
-![vshowc's GitHub stats](https://github-readme-stats.vercel.app/api?username=vshowc&hide_border=true&show_icons=true&theme=radical&hide_title=true)
-<br/>
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vshowc&hide_title=true&hide_border=true&layout=compact&bg_color=141321&theme=radical)
-
+2023-01-10T22:26:00+08:00
+随机数:77658
+提交次数:1
